@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UseGson</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="single">Single</string>
+    <string name="nested">Nested</string>
+    <string name="array">array</string>
+</resources>
